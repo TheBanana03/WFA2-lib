@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "wavefront_extend_kernels_avx.h": "c"
+    }
+}
